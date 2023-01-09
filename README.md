@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# Hi I'm Flor 👩🏽‍💻🧠🫀
+````java
+public void greeting(){
+System.out.println("I become a detective trying to solve unknowns with logic and my best tool... my computer")
+}
+````
+##### Languages I use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florenciasicre&show_icons=true)
+````python
+lifeProgress = ["🫘","🍃","🌱","🌳"]
+`````
 <!--
 **Florenciasicre/Florenciasicre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
