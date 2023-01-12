@@ -17,12 +17,20 @@ String[] lifeProgress = {"🫘","🍃","🌱","🌳"}
 
 ## 🌱 I’m currently learning 
   - Design patterns
-  - 
+  - Unit test 
+  - Integration test 
+  
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## 👯 I’m looking to collaborate on ...
+    -Open source proyects
+    
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+## 📫 How to reach me: 
+  .FlorSicre 🍪#9929
+  .Sicref001@gmail.com
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
