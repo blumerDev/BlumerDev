@@ -11,7 +11,7 @@ String[] lifeProgress = {"🫘","🍃","🌱","🌳"}
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
              
-## Some of the technologies I have worked with
+<!--## Some of the technologies I have worked with --->
              
 
 
@@ -25,15 +25,12 @@ String[] lifeProgress = {"🫘","🍃","🌱","🌳"}
     -Open source proyects
     
 
-- 💬 Ask me about ...
 
 ## 📫 How to reach me: 
-  .FlorSicre 🍪#9929
-  .Sicref001@gmail.com
   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+ <h6>.FlorSicre 🍪#9929 </h6>
+ <h6> .Sicref001@gmail.com </h6>
+  
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
