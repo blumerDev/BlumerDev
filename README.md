@@ -22,7 +22,8 @@ String[] lifeProgress = {"🫘","🍃","🌱","🌳"}
   
 
 ## 👯 I’m looking to collaborate on ...
-    -Open source proyects
+    - Open source proyects
+    
     
 
 
