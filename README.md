@@ -18,8 +18,7 @@ String[] lifeProgress = {"🫘","🍃","🌱","🌳"}
 
 ## 🌱 I’m currently learning 
   - Design patterns
-  - Unit test 
-  - Integration test 
+  - resilience applications
   
 
 ## 👯 I’m looking to collaborate on ...
